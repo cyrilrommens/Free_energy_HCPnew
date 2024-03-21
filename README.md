@@ -1,1 +1,1 @@
-Yess
+Just functions
